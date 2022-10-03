@@ -22,5 +22,15 @@ namespace HSV_Color__LAB3
         {
             return String.Format("{0} {1} {2}", this.HUE, this.saturation, this.value);
         }
+        public static Color operator +(Color instance, int number)
+        {
+            var newValue = instance.HUE + number;
+            var color = new Color(newValue, instance.saturation, instance.value);
+            return color;
+        }
+        public static Color operator +(int number, Color instance)
+        {
+            return instance + number;
+        }
     }
 }
