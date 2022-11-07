@@ -1,4 +1,4 @@
-namespace HSV_Color__LAB3
+namespace NumberSystem2
 {
     internal static class Program
     {

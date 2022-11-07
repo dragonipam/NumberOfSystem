@@ -1,0 +1,34 @@
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.exe
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.deps.json
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.runtimeconfig.json
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.dll
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.pdb
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.csproj.AssemblyReference.cache
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.Form1.resources
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.csproj.GenerateResource.cache
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.AssemblyInfoInputs.cache
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.AssemblyInfo.cs
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.csproj.CoreCompileInputs.cache
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.dll
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\refint\NumberSystem2.dll
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.pdb
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.genruntimeconfig.cache
+C:\Users\Даниил Кулаков\source\repos\NumberSystem2\obj\Debug\net6.0-windows\ref\NumberSystem2.dll
+C:\Users\stud\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.exe
+C:\Users\stud\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.deps.json
+C:\Users\stud\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.runtimeconfig.json
+C:\Users\stud\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.dll
+C:\Users\stud\source\repos\NumberSystem2\bin\Debug\net6.0-windows\NumberSystem2.pdb
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.Form1.resources
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.csproj.GenerateResource.cache
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.AssemblyInfo.cs
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.dll
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\refint\NumberSystem2.dll
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.pdb
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\NumberSystem2.genruntimeconfig.cache
+C:\Users\stud\source\repos\NumberSystem2\obj\Debug\net6.0-windows\ref\NumberSystem2.dll
